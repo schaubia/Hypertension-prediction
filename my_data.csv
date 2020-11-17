@@ -1,0 +1,7 @@
+age,gender,height,weight,smoke,alco,active,cardio,cholesterol_above normal,cholesterol_well above normal,gluc_above normal,gluc_well above normal
+2,1,100,14,0,0,1,0,0,0,0,0
+9,1,135,42,0,0,1,0,0,0,0,0
+35,1,169,51,0,0,1,0,0,0,0,0
+37,0,174,59,1,1,1,0,0,0,0,0
+63,1,147,48,1,1,0,1,0,0,0,0
+63,1,165,69,0,1,0,1,1,0,1,0
